@@ -332,7 +332,7 @@
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
 
-	.post-excerpt {
+	p.post-excerpt {
 		font-style: italic !important;
 		color: #666 !important;
 		margin-top: 5px !important;
