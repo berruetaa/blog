@@ -16,17 +16,6 @@ layout: default
   {{ content }}
 </div>
 
-{% if page.tags %}
-  <div class="tags">
-    <h3>Etiquetas:</h3>
-    <ul>
-      {% for tag in page.tags %}
-        <li><a href="{{ site.baseurl }}/tags/{{ tag | slugify }}">{{ tag }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-{% endif %}
-
 {% if related_posts.size > 0 %}
 <div id="related">
   <h3>Publicaciones relacionadas</h3>
