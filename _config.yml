@@ -4,3 +4,7 @@ url: https://blog.berrueta.xyz
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 locale: es
+collections:
+  pages:
+    output: true
+    permalink: /:path/
