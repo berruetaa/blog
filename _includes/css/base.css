@@ -333,10 +333,10 @@
 	.add-bottom { margin-bottom: 20px !important; }
 
 	.post-excerpt {
-		font-style: italic;
-		color: #666;
-		margin-top: 5px;
-		line-height: 1.6;
+		font-style: italic !important;
+		color: #666 !important;
+		margin-top: 5px !important;
+		line-height: 1.6 !important;
 	  }
 
 
