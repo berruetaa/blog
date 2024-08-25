@@ -332,4 +332,18 @@
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
 
-
+	
+/* Estilos específicos para la página "About Me" */
+body.about-me p {
+	margin-bottom: 1.5em; /* Ajusta el espaciado entre párrafos */
+  }
+  
+  body.about-me ul {
+	margin-bottom: 1.5em; /* Ajusta el espaciado en listas */
+  }
+  
+  /* Otros estilos específicos para la página "About Me" */
+  body.about-me h1 {
+	color: #333;
+  }
+  

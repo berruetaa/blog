@@ -1,16 +1,17 @@
 ---
 layout: default
 title: About Me
+class: about-me
 permalink: /about-me/
 ---
 
-# About Me
+# Sobre mí
 
 ¡Hola! Soy Sebastián Berrueta, un apasionado por la química, la tecnología, y la escritura. Este blog es mi espacio para compartir conocimientos, experiencias, reflexiones y otras cuestiones sobre temas que me interesan.
 
 ## Mis Intereses
 
-- **Química:** Desde reacciones hasta aplicaciones prácticas, la química es una parte fundamental de mi vida profesional y personal.
+- **Química:** Desde reacciones hasta aplicaciones prácticas, la química es mi pasión. Mi idea es poder profundizar en ella lo más que pueda. *Quizás un doctorado, quien sabe...*
 - **Tecnología:** Me encanta explorar nuevas tecnologías y herramientas.
 - **Escritura:** A través de este blog, expreso mis pensamientos y comparto lo que voy aprendiendo en mi camino.
 
