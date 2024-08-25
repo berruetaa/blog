@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Another sample
-description: "siclaro"
+description: "Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
+meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 
+on it occupy trust fund."
 categories:
 - blog
 ---
