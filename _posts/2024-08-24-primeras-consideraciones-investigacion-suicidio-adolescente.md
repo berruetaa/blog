@@ -15,10 +15,7 @@ Mi investigación busca explorar y analizar los diversos factores que pueden inf
 
 **1. Revisión de Datos y Estadísticas Locales**
 
-Como primer paso, estoy revisando datos y estadísticas locales sobre suicidios adolescentes. Este análisis me permitirá identificar patrones, tendencias y posibles correlaciones con eventos sociales y económicos en la región. Principalmente el documento <a href="https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/Suicidio%20en%20adolescentes%20en%20Uruguay%20-%20un%20an%C3%A1lisis%20desde%20el%20sistema%20de%20salud.pdf" target="_blank">
-  Suicidio en adolescentes en Uruguay: un análisis desde el sistema de salud
-</a>
-.
+Como primer paso, estoy revisando datos y estadísticas locales sobre suicidios adolescentes. Este análisis me permitirá identificar patrones, tendencias y posibles correlaciones con eventos sociales y económicos en la región. Principalmente el documento <a href="https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/Suicidio%20en%20adolescentes%20en%20Uruguay%20-%20un%20an%C3%A1lisis%20desde%20el%20sistema%20de%20salud.pdf" target="_blank">Suicidio en adolescentes en Uruguay: un análisis desde el sistema de salud</a>.
 
 **2. Contacto con Profesionales y Organizaciones**
 
