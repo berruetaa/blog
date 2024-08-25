@@ -1,9 +1,24 @@
 ---
 layout: default
 title: About Me
-class: about-me
 permalink: /about-me/
 ---
+
+<style>
+.page-custom-style p {
+  margin-bottom: 1.5em;
+}
+
+.page-custom-style ul {
+  margin-bottom: 1.5em;
+}
+
+.page-custom-style h1 {
+  color: #333;
+}
+</style>
+
+<div class="page-custom-style">
 
 # Sobre mí
 
@@ -26,3 +41,5 @@ Puedes contactarme mediante [email](mailto:contacto@berrueta.xyz).
 
 
 ¡Gracias por visitar mi blog!
+
+</div>
