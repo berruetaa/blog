@@ -3,7 +3,7 @@
 # Color for top bar, links, etc
 highlight_color: '#fcba03'
 
-# Profile links on the left sidebar, leave blank to ignore
+# Profile links on the left sidebar, leave blank to ignore.
 social:
   #github: berruetaa
   #bitbucket: philipj
