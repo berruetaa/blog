@@ -1,48 +1,27 @@
 ---
 layout: post
-title: Another sample
-published: true
-description: "Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
-meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 
-on it occupy trust fund."
-categories:
-- blog
+title: "Mi primer post en Jekyll"
+date: 2024-08-24 10:00:00 +0200
+categories: blog
+tags: [jekyll, tutorial, markdown]
+author: "Tu Nombre"
 ---
 
-Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
-meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 
-on it occupy trust fund. Umami whatever kitsch, locavore fingerstache Tumblr pork belly
-[keffiyeh](#). Chia Echo Park Pitchfork, Blue Bottle [hashtag](#) stumptown skateboard selvage 
-mixtape. Echo Park retro butcher banjo cardigan, seitan flannel Brooklyn paleo fixie 
-Truffaut. Forage mustache Thundercats next level disrupt. Bicycle rights forage tattooed
-chia, **wayfarers** swag raw denim hashtag biodiesel occupy gastropub!
+# Mi primer post en Jekyll
 
----
+Bienvenido a mi blog personal. Este es mi primer post utilizando Jekyll, una herramienta simple y poderosa para crear sitios web estáticos. En este post, voy a compartir cómo he configurado mi entorno de desarrollo y los primeros pasos que he seguido para crear este blog.
 
-# It's all in the game.
+## ¿Qué es Jekyll?
 
-## You come at the king, you best not miss.
+Jekyll es un generador de sitios estáticos que toma tus archivos de Markdown y los convierte en un sitio web completo. Es ideal para blogs, portafolios y otros proyectos donde no se necesita un backend dinámico.
 
-### Be subtle with it, man. You know what subtle means?
+### Instalación de Jekyll
 
-VHS post-ironic cred **bespoke** banjo. Yr wayfarers literally gentrify, flexitarian fap 
-dreamcatcher plaid cornhole Intelligentsia paleo. Beard try-hard direct trade, shabby chic 
-Helvetica `look ma, I can code`. Lo-fi American Apparel tattooed [Vice](#) tofu, yr vinyl. 
-Williamsburg butcher hella mumblecore fixie mlkshk, cliche wolf keytar mixtape kitsch banh mi 
-salvia. High Life Odd Future *chambray* kale chips hoodie, cray pop-up. Helvetica narwhal 
-iPhone try-hard jean shorts.
+Para instalar Jekyll en tu máquina, necesitas tener Ruby instalado. Aquí están los pasos básicos:
 
-> This is a quote from someone famous about productivity
+1. **Instalar Ruby**: Si no tienes Ruby instalado, puedes instalarlo siguiendo las instrucciones en la [documentación oficial de Ruby](https://www.ruby-lang.org/es/documentation/installation/).
 
+2. **Instalar Jekyll**: Una vez que tengas Ruby, puedes instalar Jekyll con el siguiente comando:
 
-Syntax highlighting with Solarized theme.
-
-{% highlight ruby %}
-class User < ActiveRecord::Base
-  attr_accessible :email, :name
-
-  ... tons of other crap ...
-
-end
-
-{% endhighlight %}
+   ```bash
+   gem install jekyll bundler
