@@ -4,41 +4,29 @@ title: About Me
 permalink: /about-me/
 ---
 
-<style>
-.page-custom-style p {
-  margin-bottom: 1.5em;
-}
+<div style="margin-bottom: 1.5em;">
+  <h1 style="color: #333;">Sobre mí</h1>
 
-.page-custom-style ul {
-  margin-bottom: 1.5em;
-}
+  <p>¡Hola! Soy Sebastián Berrueta, un apasionado por la química, la tecnología y la escritura. Este blog es mi espacio para compartir conocimientos, experiencias, reflexiones y otras cuestiones sobre temas que me interesan.</p>
 
-.page-custom-style h1 {
-  color: #333;
-}
-</style>
+  <h2>Mis Intereses</h2>
 
-<div class="page-custom-style">
+  <ul style="margin-bottom: 1.5em;">
+    <li><strong>Química:</strong> Desde reacciones hasta aplicaciones prácticas, la química es mi pasión. Mi idea es poder profundizar en ella lo más que pueda. <em>Quizás un doctorado, quien sabe...</em></li>
+    <li><strong>Tecnología:</strong> Me encanta explorar nuevas tecnologías y herramientas.</li>
+    <li><strong>Escritura:</strong> A través de este blog, expreso mis pensamientos y comparto lo que voy aprendiendo en mi camino.</li>
+  </ul>
 
-# Sobre mí
+  <h2>Proyectos Recientes</h2>
 
-¡Hola! Soy Sebastián Berrueta, un apasionado por la química, la tecnología y la escritura. Este blog es mi espacio para compartir conocimientos, experiencias, reflexiones y otras cuestiones sobre temas que me interesan.
+  <ul style="margin-bottom: 1.5em;">
+    <li><strong>Blog Personal:</strong> Este blog es un proyecto en constante evolución. Estoy utilizando Jekyll y Cloudflare Pages para alojarlo y gestionarlo.</li>
+    <li><strong>Investigación social sobre el suicidio:</strong> Estaré publicando actualizaciones en este blog con los avances al proyecto que estoy abordando.</li>
+  </ul>
 
-## Mis Intereses
+  <h2>Contacto</h2>
 
-- **Química:** Desde reacciones hasta aplicaciones prácticas, la química es mi pasión. Mi idea es poder profundizar en ella lo más que pueda. *Quizás un doctorado, quien sabe...*
-- **Tecnología:** Me encanta explorar nuevas tecnologías y herramientas.
-- **Escritura:** A través de este blog, expreso mis pensamientos y comparto lo que voy aprendiendo en mi camino.
+  <p>Puedes contactarme mediante <a href="mailto:contacto@berrueta.xyz">email</a>.</p>
 
-## Proyectos Recientes
-
-- **Blog Personal:** Este blog es un proyecto en constante evolución. Estoy utilizando Jekyll y Cloudflare Pages para alojarlo y gestionarlo.
-- **Investigación social sobre el suicidio:** Estaré publicando actualizaciones en este blog con los avances al proyecto que estoy abordando.
-
-## Contacto
-
-Puedes contactarme mediante [email](mailto:contacto@berrueta.xyz).
-
-¡Gracias por visitar mi blog!
-
+  <p>¡Gracias por visitar mi blog!</p>
 </div>
