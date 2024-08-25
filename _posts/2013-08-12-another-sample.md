@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another sample
-excerpt: "siclaro"
+description: "siclaro"
 categories:
 - blog
 ---
