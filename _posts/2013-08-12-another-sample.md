@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another sample
+excerpt: siclaro
 categories:
 - blog
 ---
