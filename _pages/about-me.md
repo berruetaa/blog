@@ -22,7 +22,7 @@ permalink: /about-me/
 
 # Sobre mí
 
-¡Hola! Soy Sebastián Berrueta, un apasionado por la química, la tecnología, y la escritura. Este blog es mi espacio para compartir conocimientos, experiencias, reflexiones y otras cuestiones sobre temas que me interesan.
+¡Hola! Soy Sebastián Berrueta, un apasionado por la química, la tecnología y la escritura. Este blog es mi espacio para compartir conocimientos, experiencias, reflexiones y otras cuestiones sobre temas que me interesan.
 
 ## Mis Intereses
 
@@ -38,7 +38,6 @@ permalink: /about-me/
 ## Contacto
 
 Puedes contactarme mediante [email](mailto:contacto@berrueta.xyz).
-
 
 ¡Gracias por visitar mi blog!
 
