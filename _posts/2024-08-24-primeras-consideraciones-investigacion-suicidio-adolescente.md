@@ -15,7 +15,8 @@ Mi investigación busca explorar y analizar los diversos factores que pueden inf
 
 **1. Revisión de Datos y Estadísticas Locales**
 
-Como primer paso, estoy revisando datos y estadísticas locales sobre suicidios adolescentes. Este análisis me permitirá identificar patrones, tendencias y posibles correlaciones con eventos sociales y económicos en la región.
+Como primer paso, estoy revisando datos y estadísticas locales sobre suicidios adolescentes. Este análisis me permitirá identificar patrones, tendencias y posibles correlaciones con eventos sociales y económicos en la región. Principalmente el documento [Suicidio en adolescentes en Uruguay: un análisis desde el sistema de salud
+](https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/Suicidio%20en%20adolescentes%20en%20Uruguay%20-%20un%20an%C3%A1lisis%20desde%20el%20sistema%20de%20salud.pdf).
 
 **2. Contacto con Profesionales y Organizaciones**
 
@@ -53,4 +54,4 @@ Los factores económicos también juegan un papel importante. Consideraré:
 
 Es importante tener en cuenta que esta investigación es un trabajo en progreso y que los hallazgos pueden evolucionar a medida que se recopila más información. Mi objetivo es ofrecer una visión integral del problema y proporcionar recomendaciones basadas en evidencia para mejorar la situación de la salud mental de los adolescentes en Maldonado.
 
-Agradezco el interés y el apoyo en esta investigación. Su participación y comprensión son fundamentales para abordar este problema con la seriedad que merece. Estaré actualizando este blog con los avances y resultados de mi estudio.
+Agradezco el interés en esta investigación. Estaré actualizando este blog con los avances y resultados de mi estudio.
