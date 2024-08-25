@@ -3,7 +3,7 @@ layout: post
 title: "Mi primer post en Jekyll"
 date: 2024-08-24 10:00:00 +0200
 categories: blog
-tags: [jekyll, tutorial, markdown]
+tags: jekyll tutorial markdown
 author: "Tu Nombre"
 ---
 
