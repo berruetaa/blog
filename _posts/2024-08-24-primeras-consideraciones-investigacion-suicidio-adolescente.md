@@ -53,4 +53,10 @@ Los factores económicos también juegan un papel importante. Consideraré:
 
 Es importante tener en cuenta que esta investigación es un trabajo en progreso y que los hallazgos pueden evolucionar a medida que se recopila más información. Mi objetivo es ofrecer una visión integral del problema y proporcionar recomendaciones basadas en evidencia para mejorar la situación de la salud mental de los adolescentes en Maldonado.
 
+He optado por no realizar entrevistas ni encuestas en la investigación debido a la extrema sensibilidad del tema. Aunque estas metodologías podrían ofrecer información valiosa y directa, he decidido priorizar un enfoque que garantice la protección emocional de los posibles participantes, minimizando cualquier riesgo de malestar o angustia.
+
+Mi enfoque se centra en una revisión exhaustiva de la literatura existente y en la consulta con profesionales y organizaciones especializadas en el tema. Estos expertos aportan perspectivas profundamente informadas, basadas en su vasta experiencia y conocimiento, lo que enriquece la investigación sin comprometer la ética o el bienestar de los involucrados.
+
+Con esta decisión, busco asegurar que la investigación se conduzca con el máximo rigor ético y respeto, protegiendo a los participantes mientras se obtiene información precisa y relevante de fuentes confiables.
+
 Agradezco el interés en esta investigación. Estaré actualizando este blog con los avances y resultados de mi estudio.
