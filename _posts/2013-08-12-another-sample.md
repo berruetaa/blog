@@ -25,3 +25,4 @@ Para instalar Jekyll en tu máquina, necesitas tener Ruby instalado. Aquí está
 
    ```bash
    gem install jekyll bundler
+   ```
