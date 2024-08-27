@@ -10,16 +10,27 @@
   <meta name="author" content="{{ site.data.theme.name }}" />
   <meta name="description" content="El blog de {{ site.data.theme.name }}" />
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
+
+  <!-- Web App Meta Tags for iOS -->
+  <meta name="apple-mobile-web-app-title" content="{{ site.data.theme.name }}">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+
+  <!-- Icons -->
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
   <link rel="manifest" href="/manifest.json">
 
+  <!-- Preconnect and Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+
+  <!-- Alternate Feed -->
   <link rel="alternate" type="application/atom+xml" title="{{ site.data.theme.name }}" href="{{site.url}}/atom.xml" />
 
+  <!-- Stylesheets -->
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 </head>
@@ -38,58 +49,55 @@
     </div>
   </div>
 
-{% include analytics.html %}
+  {% include analytics.html %}
 
-<script type="module">
-  // Import the functions you need from the SDKs you need
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-app.js";
-  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-analytics.js";
-  import { getMessaging, getToken, onMessage } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-messaging.js";
-  // TODO: Add SDKs for Firebase products that you want to use
-  // https://firebase.google.com/docs/web/setup#available-libraries
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-analytics.js";
+    import { getMessaging, getToken, onMessage } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-messaging.js";
+    
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+      apiKey: "AIzaSyDNEnkVPNBS7b6-Alb9th_fY587KVv8z3s",
+      authDomain: "blog-sebastian.firebaseapp.com",
+      projectId: "blog-sebastian",
+      storageBucket: "blog-sebastian.appspot.com",
+      messagingSenderId: "1057291695155",
+      appId: "1:1057291695155:web:409022fc35287c4ea85f46",
+      measurementId: "G-72B18B9RKG"
+    };
 
-  // Your web app's Firebase configuration
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  const firebaseConfig = {
-    apiKey: "AIzaSyDNEnkVPNBS7b6-Alb9th_fY587KVv8z3s",
-    authDomain: "blog-sebastian.firebaseapp.com",
-    projectId: "blog-sebastian",
-    storageBucket: "blog-sebastian.appspot.com",
-    messagingSenderId: "1057291695155",
-    appId: "1:1057291695155:web:409022fc35287c4ea85f46",
-    measurementId: "G-72B18B9RKG"
-  };
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+    
+    // Initialize Firebase Cloud Messaging
+    const messaging = getMessaging(app);
 
-  // Initialize Firebase
-  const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app);
-  
-  // Inicializa Firebase Cloud Messaging
-const messaging = getMessaging(app);
-
-// Solicita permiso para recibir notificaciones
-async function requestPermission() {
-  try {
-    const token = await getToken(messaging, {
-      vapidKey: 'TU_VAPID_KEY' // Sustituye esto por tu clave pública VAPID
-    });
-    if (token) {
-      console.log('Token de FCM:', token);
-      // Envía este token a tu servidor para almacenarlo
-    } else {
-      console.log('No se obtuvo el token de FCM.');
+    // Request permission to receive notifications
+    async function requestPermission() {
+      try {
+        const token = await getToken(messaging, {
+          vapidKey: 'TU_VAPID_KEY' // Replace with your public VAPID key
+        });
+        if (token) {
+          console.log('FCM Token:', token);
+          // Send this token to your server for storage
+        } else {
+          console.log('No FCM token received.');
+        }
+      } catch (error) {
+        console.error('Error getting FCM token:', error);
+      }
     }
-  } catch (error) {
-    console.error('Error al obtener el token de FCM:', error);
-  }
-}
 
-requestPermission();
+    requestPermission();
 
-onMessage(messaging, (payload) => {
-  console.log('Mensaje recibido en primer plano:', payload);
-  // Aquí puedes mostrar una notificación o actualizar la UI según sea necesario
-});
-</script>
+    onMessage(messaging, (payload) => {
+      console.log('Message received in foreground:', payload);
+      // Show a notification or update UI as needed
+    });
+  </script>
 </body>
 </html>
