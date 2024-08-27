@@ -40,6 +40,9 @@ title: Publicaciones
             <a href="{{ post.url }}" class="read-more">Leer más...</a>
           </div>
         </li>
+        {% unless forloop.last %}
+          <hr>
+        {% endunless %}
       {% endfor %}
     {% else %}
       <li><em>Aún no hay publicaciones.</em></li>
