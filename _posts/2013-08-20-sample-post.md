@@ -42,4 +42,13 @@ class User < ActiveRecord::Base
 
 end
 
+## Tabla de Datos
+
+| Nombre     | Edad | Ocupación       | País        |
+|------------|------|-----------------|-------------|
+| Juan Pérez | 30   | Ingeniero       | México      |
+| Ana López  | 25   | Diseñadora      | España      |
+| Luis Gómez | 28   | Desarrollador   | Argentina   |
+| María Ruiz | 35   | Científica      | Colombia    |
+
 {% endhighlight %}
