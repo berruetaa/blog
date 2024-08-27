@@ -41,6 +41,8 @@ class User < ActiveRecord::Base
   ... tons of other crap ...
 
 end
+{% endhighlight %}
+
 
 ## Tabla de Datos
 
