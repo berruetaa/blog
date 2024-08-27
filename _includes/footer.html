@@ -10,7 +10,7 @@
   </p>
 
   <!-- Indicaciones para añadir como app -->
-  <div class="app-install">
+  <div class="app-install" id="appInstallDiv">
     <p>
       Agrega este sitio a tu pantalla de inicio para una mejor experiencia:
       <center>
@@ -22,21 +22,28 @@
 
 <!-- Agregar script para mostrar mensaje de instalación -->
 <script>
-  // Verificar si el navegador soporta la funcionalidad de instalar como app
   let deferredPrompt;
   const installButton = document.getElementById('installButton');
+  const appInstallDiv = document.getElementById('appInstallDiv');
+
+  function checkIfStandalone() {
+    return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+  }
+
+  function hideInstallButton() {
+    appInstallDiv.style.display = 'none';
+  }
 
   window.addEventListener('beforeinstallprompt', (e) => {
-    // Previene que se muestre el banner por defecto
     e.preventDefault();
-    // Guarda el evento para que podamos mostrarlo más tarde
     deferredPrompt = e;
-    // Muestra el botón de instalación
-    installButton.style.display = 'block';
+    if (!checkIfStandalone()) {
+      // Solo mostrar el botón si no está en modo standalone
+      appInstallDiv.style.display = 'block';
+    }
   });
 
   installButton.addEventListener('click', () => {
-    // Muestra el prompt de instalación
     if (deferredPrompt) {
       deferredPrompt.prompt();
       deferredPrompt.userChoice.then((result) => {
@@ -46,11 +53,20 @@
           console.log('Usuario rechazó la instalación');
         }
         deferredPrompt = null;
+        // Ocultar el botón después de que se haya hecho la elección
+        hideInstallButton();
       });
+    }
+  });
+
+  window.addEventListener('load', () => {
+    if (checkIfStandalone()) {
+      hideInstallButton();
     }
   });
 
   window.addEventListener('appinstalled', (evt) => {
     console.log('Aplicación instalada', evt);
+    hideInstallButton();
   });
 </script>
