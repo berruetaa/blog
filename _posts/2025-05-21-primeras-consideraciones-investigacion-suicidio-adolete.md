@@ -1,62 +1,43 @@
 ---
 layout: post
-title: "Primeras consideraciones sobre la investigación"
-date: 2024-08-24
+title: "¿Somos libres o solo estamos sobreviviendo?"
+date: 2025-05-26
 categories: blog
 author: "Sebastián Berrueta"
-description: "En esta entrada intentaré, de la mejor manera, explicar mi enfoque en la investigación, proporcionar un vistazo general a la misma y algunas consideraciones a tener en cuenta."
+description: "Una reflexión bien de adentro sobre la libertad, las estructuras que nos atan y lo difícil que es romper con todo eso cuando uno solo quiere vivir tranquilo."
 ---
 
-En esta entrada, quiero compartir un resumen de mi investigación sobre el suicidio adolescente en Maldonado. Este es un tema extremadamente sensible y complicado, que requiere un enfoque exhaustivo y detallado para entender sus múltiples facetas. A continuación, presento el enfoque de mi investigación, los aspectos clave que estoy explorando y algunas consideraciones importantes.
+No, loco, no me siento libre.  
+Y no lo digo pa’ hacerme la víctima ni pa’ dar lástima. Lo digo porque lo cargo encima todos los días. Me levanto temprano, hago lo que tengo que hacer, no lo que quiero, pa’ ganar lo justo y bancar el alquiler, la cuenta de luz, el agua, la comida... y ya se me fue casi todo.
 
-### Enfoque de la Investigación
+**¿Libertad? ¿Dónde carajo está?**  
+Si esto parece una cinta de correr: por más que me mate corriendo, no avanzo ni un paso.
 
-Mi investigación busca explorar y analizar los diversos factores que pueden influir en el suicidio adolescente en Maldonado. Para hacerlo, estoy adoptando un enfoque multidimensional que considera diferentes aspectos sociales, psicológicos y económicos que podrían estar contribuyendo a este problema.
+Y eso es lo de afuera nomás.  
+Porque por dentro hay otra prisión, más turbia todavía: la cabeza. Todo eso que te meten desde chico. Que no soñés grande, que no jodas mucho, que te consigas algo “seguro”, que no falles, que sin un título no sos nadie. Que si no estás produciendo algo, no servís.
 
-**1. Revisión de Datos y Estadísticas Locales**
+Y no es que sean ideas nomás: son como fantasmas que te hablan con la voz de tus viejos, de los profes, de los vecinos. Se te meten tan profundo que a veces ni sabés si lo que pensás es tuyo o de ellos.
 
-Como primer paso, estoy revisando datos y estadísticas locales sobre suicidios adolescentes. Este análisis me permitirá identificar patrones, tendencias y posibles correlaciones con eventos sociales y económicos en la región. Principalmente el documento <a href="https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/Suicidio%20en%20adolescentes%20en%20Uruguay%20-%20un%20an%C3%A1lisis%20desde%20el%20sistema%20de%20salud.pdf" target="_blank">Suicidio en adolescentes en Uruguay: un análisis desde el sistema de salud</a>.
+Y lo peor es que, aunque te des cuenta, romper con eso no es fácil. Porque rebelarte también tiene su precio: quedarte solo, no saber si vas a poder pagar las cuentas, aguantar las miradas que te juzgan.  
+Y no soy de piedra, bo, también tengo miedo.
 
-**2. Contacto con Profesionales y Organizaciones**
+> Sartre decía que siempre elegimos.  
+> Pero qué fácil decir eso cuando no tenés que elegir entre comer o pagar la cuenta de internet.  
+> Esa libertad de manual, de libro de filosofía, en el bondi no sirve.
 
-Para obtener una perspectiva más profunda y cualitativa, estoy en contacto con profesionales de la salud mental, educadores y organizaciones que trabajan en el ámbito de la prevención del suicidio y el apoyo a jóvenes. Estas conversaciones me brindarán información valiosa sobre la situación actual y las estrategias implementadas para abordar este problema.
+Acá lo que hay son elecciones entre males menores. Eso no es libertad.  
+Eso es ir sobreviviendo como se puede.
 
-### Aspectos Clave de la Investigación
+Me dicen que tengo pequeñas libertades. Que puedo elegir si me pongo una remera negra o una blanca, qué música escuchar o con quién charlar.  
+Y sí, está, es verdad. Pero eso es una ilusión. Es como pintar de colores una celda: sigue siendo una celda.
 
-**1. Factores Sociales**
+**Yo lo que quiero es poder vivir tranquilo.**  
+No estar corriendo siempre atrás del mango, ni sintiendo que le debo algo a todo el mundo, hasta a mí mismo.
 
-Uno de los principales focos de mi investigación es el impacto del entorno social en la salud mental de los adolescentes. Esto incluye:
+---
 
-- **Redes Sociales**: Investigaré cómo el uso de redes sociales puede afectar la autoestima y el bienestar emocional de los jóvenes, así como su relación con el suicidio.
-
-- **Bullying**: El acoso escolar es un factor crítico que puede contribuir a la desesperanza y el suicidio. Analizaré la prevalencia del bullying en las escuelas locales y su impacto en los adolescentes.
-
-- **Apoyo Familiar y Comunitario**: Examinaré cómo el apoyo (o la falta de él) de la familia y la comunidad puede influir en el bienestar de los jóvenes. La ausencia de un entorno de apoyo puede ser un factor determinante en la salud mental de los adolescentes.
-
-**2. Factores Psicológicos**
-
-Exploraré los aspectos psicológicos relevantes, como:
-
-- **Depresión y Ansiedad**: Analizaré la prevalencia de trastornos como la depresión y la ansiedad entre los adolescentes y cómo estos trastornos pueden estar relacionados con el suicidio.
-
-- **Estrés y Presión Académica**: El estrés relacionado con el rendimiento académico y las expectativas puede ser significativo. Evaluaré cómo las presiones escolares afectan la salud mental de los jóvenes.
-
-**3. Factores Económicos**
-
-Los factores económicos también juegan un papel importante. Consideraré:
-
-- **Pobreza y Desigualdad**: La falta de recursos económicos puede exacerbar problemas de salud mental. Examinaré cómo la pobreza y la desigualdad económica en Maldonado afectan a los adolescentes y sus familias.
-
-- **Acceso a Servicios de Salud Mental**: Investigaré las barreras para acceder a servicios de salud mental y cómo estas barreras pueden impactar en la prevención del suicidio.
-
-### Consideraciones Adicionales
-
-Es importante tener en cuenta que esta investigación es un trabajo en progreso y que los hallazgos pueden evolucionar a medida que se recopila más información. Mi objetivo es ofrecer una visión integral del problema y proporcionar recomendaciones basadas en evidencia para mejorar la situación de la salud mental de los adolescentes en Maldonado.
-
-He optado por no realizar entrevistas ni encuestas en la investigación debido a la extrema sensibilidad del tema. Aunque estas metodologías podrían ofrecer información valiosa y directa, he decidido priorizar un enfoque que garantice la protección emocional de los posibles participantes, minimizando cualquier riesgo de malestar o angustia.
-
-Mi enfoque se centra en una revisión exhaustiva de la literatura existente y en la consulta con profesionales y organizaciones especializadas en el tema. Estos expertos aportan perspectivas profundamente informadas, basadas en su vasta experiencia y conocimiento, lo que enriquece la investigación sin comprometer la ética o el bienestar de los involucrados.
-
-Con esta decisión, busco asegurar que la investigación se conduzca con el máximo rigor ético y respeto, protegiendo a los participantes mientras se obtiene información precisa y relevante de fuentes confiables.
-
-Agradezco el interés en esta investigación. Estaré actualizando este blog con los avances y resultados de mi estudio.
+Entonces no, no soy libre.  
+Y no es por capricho.  
+No lo soy porque el sistema ya está armado pa’ que no lo seamos.  
+Y romper con eso no es solo un acto de voluntad: **es una guerra constante, por fuera y por dentro**.  
+Y te juro que hay días en los que ya no me da la nafta.
